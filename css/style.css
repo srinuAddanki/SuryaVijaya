@@ -1,0 +1,13 @@
+body {
+  padding-top: 70px;
+}
+
+footer {
+  background: #111;
+  color: #aaa;
+}
+
+.property-card img {
+  height: 220px;
+  object-fit: cover;
+}
